@@ -139,3 +139,5 @@ const plotAnyChart = async () => {
 
 /* Populate dropdown menu. */
 populateDropdown()
+
+barchartCrimeData(["yhteensä", "canvas"])
